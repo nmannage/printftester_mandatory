@@ -8,7 +8,7 @@ Quick mandatory-only printftester for the ft_printf project
 
 - **Super-fast:** Only tests what you need to pass the mandatory part.
 - 💡 **Hints (optional):** Run with `--hints` to get spoilers for each failed case.
-- **Minimal:** No leaks, no bonus, zero bloat.
+- **Minimal: DOES NOT CHECK** for leaks, no bonus. **PLEASE** check for memory issues before submitting.
 
 
 ---
